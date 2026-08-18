@@ -205,5 +205,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787041060.107277,
+    "completed_at": 1787041062.968542,
+    "comments": [
+      "Answer for What is the commit message of the commit 88a638a50c8b5cfdb9ad4c06785c3f53693d623b? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
